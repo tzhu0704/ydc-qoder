@@ -1,0 +1,8 @@
+{
+  "name": "qoder-you",
+  "version": "0.1.0",
+  "displayName": "You.com Research Assistant",
+  "description": "Search and extract public web sources with You.com; research and verify claims with citations.",
+  "skills": "./skills",
+  "mcpServers": "./.mcp.json"
+}
